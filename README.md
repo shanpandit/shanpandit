@@ -9,7 +9,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 🕷 ###
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/spider_1f577-fe0f.png" width="512px"/>
 
 ---
