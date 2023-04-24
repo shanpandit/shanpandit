@@ -10,7 +10,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/spider_1f577-fe0f.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shanpandit&icon=0&color=2)](https://visitcount.itsvg.in)
